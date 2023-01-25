@@ -24,7 +24,7 @@ int main() {
     cout << endl;
     reverse(name, 0 , name.length()-1 );
  
-    cout << name << endl;
+   
 
     return 0;
 }
